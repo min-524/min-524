@@ -21,7 +21,7 @@
 ### 🔧 Tools 🔧
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-# :mailbox_with_mail: Contacts
+# :mailbox_with_mail: Contacts :mailbox_with_mail:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmalacom@gmail.com)](mailto:tgmalacom@gmail.com)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram-&link=[https://www.instagram.com/b_.chan7/](https://www.instagram.com/k_g_min_06/))](https://www.instagram.com/k_g_min_06/)
 
