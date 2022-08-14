@@ -26,4 +26,4 @@
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram-&link=[https://www.instagram.com/b_.chan7/](https://www.instagram.com/k_g_min_06/))](https://www.instagram.com/k_g_min_06/)
 
 
-</div>
+</div>  
