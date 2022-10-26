@@ -4,7 +4,7 @@
 # Kim Gang Min
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-524%2Fhit-counter&count_bg=%236F5CD0&title_bg=%23759FA4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 👋 Gangmin's Github에 오신 것을 환영합니다. 👋
-
+![snake gif](https://github.com/min-524/min-524/blob/output/github-contribution-grid-snake.svg)
 ## stats
  
 ![Gangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-524&show_icons=true&theme=radical)  
